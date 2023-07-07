@@ -1,0 +1,21 @@
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\bin\Debug\net6.0\appsettings.Development.json
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\bin\Debug\net6.0\appsettings.json
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\bin\Debug\net6.0\Powerplant Coding Challenge.exe
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\bin\Debug\net6.0\Powerplant Coding Challenge.deps.json
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\bin\Debug\net6.0\Powerplant Coding Challenge.runtimeconfig.json
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\bin\Debug\net6.0\Powerplant Coding Challenge.dll
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\bin\Debug\net6.0\Powerplant Coding Challenge.pdb
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\obj\Debug\net6.0\Powerplant Coding Challenge.csproj.AssemblyReference.cache
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\obj\Debug\net6.0\Powerplant Coding Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\obj\Debug\net6.0\Powerplant Coding Challenge.AssemblyInfoInputs.cache
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\obj\Debug\net6.0\Powerplant Coding Challenge.AssemblyInfo.cs
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\obj\Debug\net6.0\Powerplant Coding Challenge.csproj.CoreCompileInputs.cache
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\obj\Debug\net6.0\Powerplant Coding Challenge.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\obj\Debug\net6.0\staticwebassets.build.json
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\obj\Debug\net6.0\staticwebassets.development.json
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\obj\Debug\net6.0\scopedcss\bundle\Powerplant Coding Challenge.styles.css
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\obj\Debug\net6.0\Powerplant Coding Challenge.dll
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\obj\Debug\net6.0\refint\Powerplant Coding Challenge.dll
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\obj\Debug\net6.0\Powerplant Coding Challenge.pdb
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\obj\Debug\net6.0\Powerplant Coding Challenge.genruntimeconfig.cache
+C:\Personal Projects\Powerplant Coding Challenge\Powerplant Coding Challenge\obj\Debug\net6.0\ref\Powerplant Coding Challenge.dll
